@@ -1,5 +1,7 @@
 ### January 7th 2019
 
+### Notes by Navin based on Zaid's Notes
+
 # The Lab
 
 We will use a program called Virtual Box to setup our pentesting lab.
@@ -78,6 +80,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NTA1MzE0LDE3MjcyMzI5OTUsLTEzMz
+eyJoaXN0b3J5IjpbNDczMTQ2NzIwLDE3MjcyMzI5OTUsLTEzMz
 k5ODA2NzFdfQ==
 -->
