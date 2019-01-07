@@ -21,24 +21,22 @@ First of all download and install Virtual Box from
 # The Lab - Configuring Kali Linux
 
 1. Install guest additions - **To be done**
-
-```
-    > apt-get install virtualbox-guest-x
-```
-2. Update the source list - **Done**
+2.  apt-get install virtualbox-guest-x
+3. Update the source list - **Done**
 
 ```
     > apt-get update
 ```
-3. Install needed updates - **Done**
+4. Install needed updates - **Done**
 
 ```
     > apt-get upgrade
 ```
-4. Install terminator - **Not Required Default Kali has this feature now**
+5. Install terminator - **Not Required Default Kali has this feature now**
 ```
     > apt-get install terminator
 ```
+6. Login using - **root - toor**
 
 # The Lab - Kali Linux
 
@@ -80,6 +78,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMTQ2NzIwLDE3MjcyMzI5OTUsLTEzMz
-k5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTY0MDUxMzAsMTcyNzIzMjk5NSwtMT
+MzOTk4MDY3MV19
 -->
