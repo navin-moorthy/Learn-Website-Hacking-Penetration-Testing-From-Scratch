@@ -9,7 +9,7 @@ Virtual Box allows us to create virtual machines inside our current OS.
 We will create the following machines in our lab (for now):
 
 1. Attacker machine - Kali Linux - **Installed** 
-2. Victim 1 - Metasploitable. - **Tobe done**
+2. Victim 1 - Metasploitable. - **To be done**
 3. Victim 2 - Windows. - **Installed** 
 
 First of all download and install Virtual Box from
@@ -18,22 +18,22 @@ First of all download and install Virtual Box from
 
 # The Lab - Configuring Kali Linux
 
-1. Install guest additions
+1. Install guest additions - **To be done**
 
 ```
     > apt-get install virtualbox-guest-x
 ```
-2. Update the source list
+2. Update the source list - **Done**
 
 ```
     > apt-get update
 ```
-3. Install needed updates
+3. Install needed updates - **Done**
 
 ```
     > apt-get upgrade
 ```
-4. Install terminator
+4. Install terminator - **Not Required Default Kali has this feature now**
 ```
     > apt-get install terminator
 ```
@@ -78,6 +78,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODYxMzU1NCwxNzI3MjMyOTk1LC0xMz
-M5OTgwNjcxXX0=
+eyJoaXN0b3J5IjpbOTQ4NTA1MzE0LDE3MjcyMzI5OTUsLTEzMz
+k5ODA2NzFdfQ==
 -->
