@@ -1,4 +1,4 @@
-January 7th 2019
+### January 7th 2019
 
 # The Lab
 
@@ -8,9 +8,9 @@ Virtual Box allows us to create virtual machines inside our current OS.
 
 We will create the following machines in our lab (for now):
 
-1. Attacker machine - Kali Linux
-2. Victim 1 - Metasploitable.
-3. Victim 2 - Windows.
+1. Attacker machine - Kali Linux - **Installed** 
+2. Victim 1 - Metasploitable. - **Tobe done**
+3. Victim 2 - Windows. - **Installed** 
 
 First of all download and install Virtual Box from
 
@@ -78,6 +78,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY2MDA2MTYsMTcyNzIzMjk5NSwtMT
-MzOTk4MDY3MV19
+eyJoaXN0b3J5IjpbLTUwODYxMzU1NCwxNzI3MjMyOTk1LC0xMz
+M5OTgwNjcxXX0=
 -->
