@@ -22,17 +22,16 @@ First of all download and install Virtual Box from
 
 1. Install guest additions - **To be done**
 
+    `apt-get install virtualbox-guest-x`
 
 3. Update the source list - **Done**
 
-```
-    > apt-get update
-```
+	`apt-get update`
+	
 4. Install needed updates - **Done**
 
-```
-    > apt-get upgrade
-```
+	`apt-get upgrade`
+
 5. Install terminator - **Not Required Default Kali has this feature now**
 ```
     > apt-get install terminator
@@ -79,6 +78,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4OTMyMzgzLDE3MjcyMzI5OTUsLTEzMz
-k5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI4NDgxMDgsMTcyNzIzMjk5NSwtMT
+MzOTk4MDY3MV19
 -->
