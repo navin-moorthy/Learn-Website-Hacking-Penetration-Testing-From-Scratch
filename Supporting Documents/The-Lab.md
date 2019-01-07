@@ -21,7 +21,8 @@ First of all download and install Virtual Box from
 # The Lab - Configuring Kali Linux
 
 1. Install guest additions - **To be done**
-2.  apt-get install virtualbox-guest-x
+
+
 3. Update the source list - **Done**
 
 ```
@@ -78,6 +79,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY0MDUxMzAsMTcyNzIzMjk5NSwtMT
-MzOTk4MDY3MV19
+eyJoaXN0b3J5IjpbNTQ4OTMyMzgzLDE3MjcyMzI5OTUsLTEzMz
+k5ODA2NzFdfQ==
 -->
