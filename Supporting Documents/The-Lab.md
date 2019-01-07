@@ -73,16 +73,9 @@ Microsoft has released a number of windows virtual machines that can
 be downloaded from the following link (make sure you select windows 10
 stable and virtual box)
 
-    https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
-
-**1.Developement**
-
-Add DNSSEC to my Hosting
-Find a way to fix the git errors and ssh via aws.
-Generate the CSR for new Certificate for Secure connection to my website.
-favicon for error page
-see how to reduce the size of image in github
+	https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MjEwMDg2MjksLTEzMzk5ODA2NzFdfQ
+==
 -->
