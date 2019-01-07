@@ -12,7 +12,7 @@ We will create the following machines in our lab (for now):
 
 First of all download and install Virtual Box from
 
-    https://www.virtualbox.org/wiki/Downloads
+   https://www.virtualbox.org/wiki/Downloads
 
 # The Lab - Configuring Kali Linux
 
@@ -46,11 +46,11 @@ This is going to be the attacker machine.
 
 1. You can download Kali Pre Built machines from the following link:
 
-        https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/
+      https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/
 
 2. Or use the iso image:
 
-        https://www.kali.org/downloads/
+      https://www.kali.org/downloads/
 
 # The Lab - Installing Metasploitable
 
@@ -61,7 +61,7 @@ This is going to be one of the victims that we will try to hack.
 
 You can download Metasploitable from the following link:
 
-    https://information.rapid7.com/metasploitable-download.html
+   https://information.rapid7.com/metasploitable-download.html
 
 
 # The Lab - Installing Windows
@@ -76,6 +76,5 @@ stable and virtual box)
 	https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwMDg2MjksLTEzMzk5ODA2NzFdfQ
-==
+eyJoaXN0b3J5IjpbMTM3MzM0MDYwMywtMTMzOTk4MDY3MV19
 -->
