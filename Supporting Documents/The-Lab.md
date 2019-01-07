@@ -73,8 +73,8 @@ Microsoft has released a number of windows virtual machines that can
 be downloaded from the following link (make sure you select windows 10
 stable and virtual box)
 
-	https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzM0MDYwMywtMTMzOTk4MDY3MV19
+eyJoaXN0b3J5IjpbMTcyNzIzMjk5NSwtMTMzOTk4MDY3MV19
 -->
