@@ -21,7 +21,7 @@ First of all download and install Virtual Box from
 
 # The Lab - Configuring Kali Linux
 
-1. Install guest additions - **To be done**
+1. Install guest additions - **Done - It now comes preinstalled**
 
     `apt-get install virtualbox-guest-x`
 
@@ -39,7 +39,9 @@ First of all download and install Virtual Box from
     
 5. Login using - **root - toor**
 
-7. Auto Remove after Insatallation files
+6. Auto Remove after Insatallation files
+
+	`apt-get autoremove`
 
 # The Lab - Kali Linux
 
@@ -81,6 +83,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTM3ODY3LC0xMjkyMzUyODcyLDQ0MD
-U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
+eyJoaXN0b3J5IjpbLTk4NDgwNDIzMSwtMTI5MjM1Mjg3Miw0ND
+A1NDE1NDYsMTcyNzIzMjk5NSwtMTMzOTk4MDY3MV19
 -->
