@@ -5,7 +5,7 @@
 
 # The Lab
 
-We will use a program called Virtual Box to setup our pentesting lab.
+We will use a program called **Virtual Box** to setup our pentesting lab.
 
 Virtual Box allows us to create virtual machines inside our current OS.
 
@@ -45,8 +45,7 @@ First of all download and install Virtual Box from
 
 # The Lab - Kali Linux
 
-Kali Linux is a linux distribution based on Debian, Kali is especially made for
-pentesters, it contains most of the tools that we need, installed and configured
+Kali Linux is a linux distribution based on **Debian**, Kali is especially made for pentesters, it contains most of the tools that we need, installed and configured
 correctly.
 
 This is going to be the **attacker machine.**
@@ -85,7 +84,10 @@ stable and virtual box)
 
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
+> Took Snapshot of all the three machines for future use or to downgrade
+> if anything happens.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjM2MDA0LC0xMjkyMzUyODcyLDQ0MD
-U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
+eyJoaXN0b3J5IjpbLTEzNDc4NzAyOTgsLTEyOTIzNTI4NzIsND
+QwNTQxNTQ2LDE3MjcyMzI5OTUsLTEzMzk5ODA2NzFdfQ==
 -->
