@@ -70,7 +70,8 @@ You can download Metasploitable from the following link:
 
    https://information.rapid7.com/metasploitable-download.html
 
-
+**Login **  
+ msfadmin2
 # The Lab - Installing Windows
 
 We will also install a normal windows machine as a victim, we will be
@@ -83,6 +84,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDgwNDIzMSwtMTI5MjM1Mjg3Miw0ND
-A1NDE1NDYsMTcyNzIzMjk5NSwtMTMzOTk4MDY3MV19
+eyJoaXN0b3J5IjpbLTE5NzU2MDQxNDcsLTEyOTIzNTI4NzIsND
+QwNTQxNTQ2LDE3MjcyMzI5OTUsLTEzMzk5ODA2NzFdfQ==
 -->
