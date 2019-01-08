@@ -49,7 +49,7 @@ Kali Linux is a linux distribution based on Debian, Kali is especially made for
 pentesters, it contains most of the tools that we need, installed and configured
 correctly.
 
-This is going to be the attacker machine.
+This is going to be the **attacker machine.**
 
 1. You can download Kali Pre Built machines from the following link:
 
@@ -64,14 +64,16 @@ This is going to be the attacker machine.
 Metasploitable is a vulnerable linux distro, this OS contains a number of
 vulnerabilities, it is designed for pentesters to try and hack it.
 
-This is going to be one of the victims that we will try to hack.
+This is going to be **one of the victims** that we will try to hack.
 
-You can download Metasploitable from the following link:
+You can download **Metasploitable 2** from the following link:
 
    https://information.rapid7.com/metasploitable-download.html
 
-**Login **  
- msfadmin2
+**Metaspoitable 3 is now available** 
+
+**Login Details**  - msfadmin*2
+
 # The Lab - Installing Windows
 
 We will also install a normal windows machine as a victim, we will be
@@ -84,6 +86,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU2MDQxNDcsLTEyOTIzNTI4NzIsND
-QwNTQxNTQ2LDE3MjcyMzI5OTUsLTEzMzk5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbMjA4NjM2MDA0LC0xMjkyMzUyODcyLDQ0MD
+U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
 -->
