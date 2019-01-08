@@ -1,5 +1,6 @@
 ### January 7th 2019
 
+
 ### Notes by Navin based on Zaid's Notes
 
 # The Lab
@@ -78,6 +79,6 @@ stable and virtual box)
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNTQxNTQ2LDE3MjcyMzI5OTUsLTEzMz
-k5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIzNTI4NzIsNDQwNTQxNTQ2LDE3Mj
+cyMzI5OTUsLTEzMzk5ODA2NzFdfQ==
 -->
