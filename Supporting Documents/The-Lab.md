@@ -33,6 +33,8 @@ First of all download and install Virtual Box from
 
 	`apt-get upgrade`
 
+	Do not shutdown or stop the upgrade, it might break the OS. 
+
 4. Install terminator - **Not Required Default Kali has this feature now**
 
     `apt-get install terminator`
@@ -84,10 +86,9 @@ stable and virtual box)
 
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
-> Took Snapshot of all the three machines for future use or to downgrade
-> if anything happens.
+> Took Snapshot of all the three machines for future use or to downgrade if anything happens.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc4NzAyOTgsLTEyOTIzNTI4NzIsND
-QwNTQxNTQ2LDE3MjcyMzI5OTUsLTEzMzk5ODA2NzFdfQ==
+eyJoaXN0b3J5IjpbLTUyMDA2Mjc0LC0xMjkyMzUyODcyLDQ0MD
+U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
 -->
