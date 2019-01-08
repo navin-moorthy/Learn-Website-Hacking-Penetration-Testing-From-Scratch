@@ -70,11 +70,11 @@ You can download **Metasploitable 2** 2017 from the following link:
 
    https://information.rapid7.com/metasploitable-download.html
 
-**Metaspoitable 3 is now available** 
+- **Metaspoitable 3 is now available** 
 
-Create a new Virtual Box with L
+- Create a new Virtual Box with Linux Ubuntu 64bit and load the file.
 
-**Login Details**  - msfadmin*2
+- **Login Details**  - msfadmin*2
 
 # The Lab - Installing Windows
 
@@ -87,9 +87,9 @@ stable and virtual box)
 
 https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
-> Took Snapshot of all the three machines for future use or to downgrade if anything happens.
+> **Took Snapshot of all the three machines for future use or to downgrade if anything happens.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Njc3ODczNSwtMTI5MjM1Mjg3Miw0ND
-A1NDE1NDYsMTcyNzIzMjk5NSwtMTMzOTk4MDY3MV19
+eyJoaXN0b3J5IjpbODc5NjcwODcyLC0xMjkyMzUyODcyLDQ0MD
+U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
 -->
