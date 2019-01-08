@@ -47,8 +47,7 @@ First of all download and install Virtual Box from
 
 # The Lab - Kali Linux
 
-Kali Linux is a linux distribution based on **Debian**, Kali is especially made for pentesters, it contains most of the tools that we need, installed and configured
-correctly.
+Kali Linux is a linux distribution based on **Debian**, Kali is especially made for pentesters, it contains most of the tools that we need, installed and configured correctly.
 
 This is going to be the **attacker machine.**
 
@@ -62,16 +61,18 @@ This is going to be the **attacker machine.**
 
 # The Lab - Installing Metasploitable
 
-Metasploitable is a vulnerable linux distro, this OS contains a number of
+Metasploitable is a vulnerable **linux distro** Ubuntu 64bit, this OS contains a number of
 vulnerabilities, it is designed for pentesters to try and hack it.
 
 This is going to be **one of the victims** that we will try to hack.
 
-You can download **Metasploitable 2** from the following link:
+You can download **Metasploitable 2** 2017 from the following link:
 
    https://information.rapid7.com/metasploitable-download.html
 
 **Metaspoitable 3 is now available** 
+
+Create a new Virtual Box with L
 
 **Login Details**  - msfadmin*2
 
@@ -89,6 +90,6 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 > Took Snapshot of all the three machines for future use or to downgrade if anything happens.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDA2Mjc0LC0xMjkyMzUyODcyLDQ0MD
-U0MTU0NiwxNzI3MjMyOTk1LC0xMzM5OTgwNjcxXX0=
+eyJoaXN0b3J5IjpbMTY4Njc3ODczNSwtMTI5MjM1Mjg3Miw0ND
+A1NDE1NDYsMTcyNzIzMjk5NSwtMTMzOTk4MDY3MV19
 -->
