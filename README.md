@@ -7,3 +7,5 @@ Below sections will have the links to my notes taken during the study.
 ### List of Notes
 
 1. [Lab Setup](notes/lab-setup.md)
+2. [Website Basics](notes/website-basics.md)
+3. [Note](notes/notes.md)
