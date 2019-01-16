@@ -67,6 +67,8 @@ Knock can be used to find subdomains of target
 For more info run
 > man dirb
 
+`usr/share/dirb/wordlist` -> has a large collection of words. Do check that out
+
 ## Maltego
 
 Maltego is an information gathering tool that can be used to collect
@@ -75,6 +77,10 @@ information about ANYTHING.
 To run maltego type the following in terminal
 
 > maltegoce
+
+- Logged in for community edition Free edition.
+- Upgraded Maltego to v4.1.15
+- Ran some basic transforms as per the tutorials.
 
 :arrow_backward: [Back to README](../README.md)
 
