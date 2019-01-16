@@ -9,4 +9,4 @@ Below sections will have the links to my notes taken during the study.
 1. [Lab Setup](notes/lab-setup.md)
 2. [Website Basics](notes/website-basics.md)
 3. [Note](notes/notes.md)
-4. [Information Gathering](notes/information-gathering)
+4. [Information Gathering](notes/information-gathering.md)
