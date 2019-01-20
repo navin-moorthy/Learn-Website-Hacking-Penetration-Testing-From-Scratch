@@ -12,7 +12,8 @@ Upload a php shell or backdoor, ex: weevly
 
 **Practical Steps:**
 - Launch Metasploitable for DVWA Damn Vulnerable Web Application
-- Login Details - admin password
+- Login Details - admin - password
+- 
 
 # HTTP Requests
 
@@ -336,6 +337,6 @@ gin-php-submit-button=Login:F=Not Logged In"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTE5NzYzNiwtNjE1MTMyNDMwLC00Mj
+eyJoaXN0b3J5IjpbMTU2NzU5NDAzNiwtNjE1MTMyNDMwLC00Mj
 U1NzA1M119
 -->
