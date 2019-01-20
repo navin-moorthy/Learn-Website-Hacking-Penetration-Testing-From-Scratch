@@ -1,18 +1,14 @@
-# Exploitation
-
-```
+# Exploitation - File Upload Vulns
+	
 ● Simples type of vulnerabilities.
 ● Allow users to upload executable files such as php.
-```
+
 Upload a php shell or backdoor, ex: weevly
 
 1. Generate backdoor > weevly generate [passord] [file name]
 2. Upload generated file.
 3. Connect to it > weevly [url to file] [password]
 4. Find out how to use weevly > help
-
-## File Upload Vulns
-
 
 # HTTP Requests
 
@@ -336,5 +332,5 @@ gin-php-submit-button=Login:F=Not Logged In"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTU3MDUzXX0=
+eyJoaXN0b3J5IjpbLTYxNTEzMjQzMCwtNDI1NTcwNTNdfQ==
 -->
