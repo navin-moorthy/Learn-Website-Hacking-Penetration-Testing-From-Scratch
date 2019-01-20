@@ -10,3 +10,7 @@ Below sections will have the links to my notes taken during the study.
 2. [Website Basics](notes/website-basics.md)
 3. [Note](notes/notes.md)
 4. [Information Gathering](notes/information-gathering.md)
+5. [File-Upload-Vulnerabilities](notes/file-upload-vulnerabilities.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMwNDczNjk4N119
+-->
