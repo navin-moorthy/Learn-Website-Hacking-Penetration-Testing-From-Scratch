@@ -37,50 +37,7 @@ Response
 
 ## Burp Proxy
 
-```
-Request
-```
-```
-Html
-Website
-```
-```
-195.44.2.
-Web Server
-```
-```
-Response
-```
-```
-Modified Request
-```
-```
-Proxy
-```
-
-# Intercepting Requests
-
-## Burp Proxy
-
-```
-Request
-Html Website
-+ Client Side
-Filtering
-```
-```
-195.44.2.
-Web Server
-```
-```
-Response
-```
-```
-Modified Request
-```
-```
-Proxy
-```
+- Set up and explanation
 
 # Mitigation
 
@@ -340,6 +297,7 @@ gin-php-submit-button=Login:F=Not Logged In"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NzY0MDcsNjgzOTcyNDE5LDE1Njc1OT
-QwMzYsLTYxNTEzMjQzMCwtNDI1NTcwNTNdfQ==
+eyJoaXN0b3J5IjpbMTcwMTE2NDI5Niw1MjU3NjQwNyw2ODM5Nz
+I0MTksMTU2NzU5NDAzNiwtNjE1MTMyNDMwLC00MjU1NzA1M119
+
 -->
