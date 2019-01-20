@@ -9,7 +9,6 @@ Upload a php shell or backdoor, ex: weevly
 2. Upload generated file.
 3. Connect to it > weevly [url to file] [password]
 4. Find out how to use weevly > help
-5. 
 
 **Practical Steps:**
 - Launch Metasploitable for DVWA Damn Vulnerable Web Application
@@ -17,7 +16,7 @@ Upload a php shell or backdoor, ex: weevly
 - Went to Upload Section.
 - Uploaded a 4MB file failed then a small file succeeded.
 - Uploaded a shell.php weevly shell code failed but shell.php.jpg succeeded.
-- 
+- Connected to it and able to run some basic commands
 
 # HTTP Requests
 
@@ -341,6 +340,6 @@ gin-php-submit-button=Login:F=Not Logged In"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzc2NzI3Niw2ODM5NzI0MTksMTU2Nz
-U5NDAzNiwtNjE1MTMyNDMwLC00MjU1NzA1M119
+eyJoaXN0b3J5IjpbNTI1NzY0MDcsNjgzOTcyNDE5LDE1Njc1OT
+QwMzYsLTYxNTEzMjQzMCwtNDI1NTcwNTNdfQ==
 -->
